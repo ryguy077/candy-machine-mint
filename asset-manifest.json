@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/candy-machine-mint/static/css/main.f666c560.chunk.css",
-    "main.js": "/candy-machine-mint/static/js/main.e2cfa026.chunk.js",
-    "main.js.map": "/candy-machine-mint/static/js/main.e2cfa026.chunk.js.map",
+    "main.js": "/candy-machine-mint/static/js/main.d240327a.chunk.js",
+    "main.js.map": "/candy-machine-mint/static/js/main.d240327a.chunk.js.map",
     "runtime-main.js": "/candy-machine-mint/static/js/runtime-main.cc18488b.js",
     "runtime-main.js.map": "/candy-machine-mint/static/js/runtime-main.cc18488b.js.map",
     "static/js/2.fe6c8a63.chunk.js": "/candy-machine-mint/static/js/2.fe6c8a63.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.cc18488b.js",
     "static/js/2.fe6c8a63.chunk.js",
     "static/css/main.f666c560.chunk.css",
-    "static/js/main.e2cfa026.chunk.js"
+    "static/js/main.d240327a.chunk.js"
   ]
 }
