@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/candy-machine-mint-fiverr1/static/css/main.7e8a468c.chunk.css",
-    "main.js": "/candy-machine-mint-fiverr1/static/js/main.878efa76.chunk.js",
-    "main.js.map": "/candy-machine-mint-fiverr1/static/js/main.878efa76.chunk.js.map",
-    "runtime-main.js": "/candy-machine-mint-fiverr1/static/js/runtime-main.ecfaca18.js",
-    "runtime-main.js.map": "/candy-machine-mint-fiverr1/static/js/runtime-main.ecfaca18.js.map",
-    "static/js/2.ff5c3fcd.chunk.js": "/candy-machine-mint-fiverr1/static/js/2.ff5c3fcd.chunk.js",
-    "static/js/2.ff5c3fcd.chunk.js.map": "/candy-machine-mint-fiverr1/static/js/2.ff5c3fcd.chunk.js.map",
-    "static/js/3.e9a62ce3.chunk.js": "/candy-machine-mint-fiverr1/static/js/3.e9a62ce3.chunk.js",
-    "static/js/3.e9a62ce3.chunk.js.map": "/candy-machine-mint-fiverr1/static/js/3.e9a62ce3.chunk.js.map",
-    "index.html": "/candy-machine-mint-fiverr1/index.html",
-    "static/css/main.7e8a468c.chunk.css.map": "/candy-machine-mint-fiverr1/static/css/main.7e8a468c.chunk.css.map",
-    "static/js/2.ff5c3fcd.chunk.js.LICENSE.txt": "/candy-machine-mint-fiverr1/static/js/2.ff5c3fcd.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/candy-machine-mint-fiverr1/static/media/Background.36f2bc1a.png"
+    "main.css": "/static/css/main.0f366b2a.chunk.css",
+    "main.js": "/static/js/main.af611453.chunk.js",
+    "main.js.map": "/static/js/main.af611453.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aabb7cba.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aabb7cba.js.map",
+    "static/js/2.bb3b7b18.chunk.js": "/static/js/2.bb3b7b18.chunk.js",
+    "static/js/2.bb3b7b18.chunk.js.map": "/static/js/2.bb3b7b18.chunk.js.map",
+    "static/js/3.8ed57125.chunk.js": "/static/js/3.8ed57125.chunk.js",
+    "static/js/3.8ed57125.chunk.js.map": "/static/js/3.8ed57125.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0f366b2a.chunk.css.map": "/static/css/main.0f366b2a.chunk.css.map",
+    "static/js/2.bb3b7b18.chunk.js.LICENSE.txt": "/static/js/2.bb3b7b18.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Background.36f2bc1a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ecfaca18.js",
-    "static/js/2.ff5c3fcd.chunk.js",
-    "static/css/main.7e8a468c.chunk.css",
-    "static/js/main.878efa76.chunk.js"
+    "static/js/runtime-main.aabb7cba.js",
+    "static/js/2.bb3b7b18.chunk.js",
+    "static/css/main.0f366b2a.chunk.css",
+    "static/js/main.af611453.chunk.js"
   ]
 }
